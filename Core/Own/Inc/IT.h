@@ -23,5 +23,6 @@ extern uint8_t rebuf[100];
 #include "pid.h"
 #include "blueteeth.h"
 #include "gy953.h"
+#include "telescopic.h"
 
 #endif //ANGLE_IT_H

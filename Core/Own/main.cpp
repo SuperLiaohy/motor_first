@@ -48,6 +48,7 @@ int main(void)
     MX_I2C2_Init();
     MX_TIM4_Init();
     MX_USART3_UART_Init();
+    MX_TIM6_Init();
 
 
     angle.p = 0.8;
@@ -93,7 +94,7 @@ int main(void)
 //    FrontLeft.back_run();
 
 //    FrontRight.SetPwm(1000);
-    FrontRight.front_run();
+//    FrontRight.front_run();
 
 //    BackLeft.SetPwm(1000);
 //    BackLeft.front_run();

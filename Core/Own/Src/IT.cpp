@@ -84,4 +84,14 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim){
         }
 
     }
+    if (htim == stick.timer){
+        if (stick.open) {
+            stick.time++;
+            if (stick.time == stick.target) {
+                stick.Close();
+                stick.Clear();
+            }
+        }
+
+    }
 };
