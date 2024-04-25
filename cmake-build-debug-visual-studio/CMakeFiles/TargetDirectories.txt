@@ -1,0 +1,3 @@
+D:/dian_sai/motor_first/cmake-build-debug-visual-studio/CMakeFiles/motor_first.elf.dir
+D:/dian_sai/motor_first/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/dian_sai/motor_first/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

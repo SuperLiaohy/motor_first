@@ -1,0 +1,5 @@
+"D:\Clion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\dian_sai\motor_first -B D:\dian_sai\motor_first\cmake-build-debug-visual-studio
+-- Minimal optimization, debug info included
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/dian_sai/motor_first/cmake-build-debug-visual-studio
